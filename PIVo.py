@@ -1,5 +1,3 @@
-# image_viewer.pyw
-
 import sys
 import os
 from tkinter import filedialog
